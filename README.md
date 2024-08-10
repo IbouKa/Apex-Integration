@@ -1,18 +1,3 @@
-# Salesforce DX Project: Next Steps
+# Intégration Avancée avec Salesforce
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
-
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+Ce cours complet vous guide à travers les concepts et pratiques d'intégration avancée avec Salesforce. Vous apprendrez à connecter Salesforce à des plateformes tierces en utilisant des API REST et SOAP, à gérer des clés API, et à sécuriser vos intégrations avec OAuth 2.0. Grâce à des exemples pratiques et des scénarios réels, vous développerez des compétences pour effectuer des appels HTTP, parser des réponses JSON, et implémenter des flux d'authentification robustes. Ce cours est destiné aux développeurs Salesforce souhaitant maîtriser les techniques d'intégration et les bonnes pratiques en matière de sécurité et d'efficacité.
